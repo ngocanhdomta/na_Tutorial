@@ -1,1 +1,6 @@
-day la file them vao remote repo de ta dong bo voi local repo
+#include <stdio.h>
+
+int main(){
+    printf("Day la file test chuc nang dong bo hoa remote repo\n");
+    return 0;
+}
